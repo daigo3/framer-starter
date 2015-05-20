@@ -1,0 +1,8 @@
+.DS_Store
+
+node_modules/
+
+Project/bundle.js
+Project/bundle.js.map
+
+*.log
